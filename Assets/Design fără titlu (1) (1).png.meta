@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 9da178f50fc1e114a9bf2b77de78c5f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1298835994234693819
+    second: "Design f\u0103r\u0103 titlu (1) (1)_0"
+  - first:
+      213: 6377538208726704242
+    second: "Design f\u0103r\u0103 titlu (1) (1)_1"
+  - first:
+      213: 3392336965531931615
+    second: "Design f\u0103r\u0103 titlu (1) (1)_2"
+  - first:
+      213: 5334998623191570545
+    second: "Design f\u0103r\u0103 titlu (1) (1)_3"
+  - first:
+      213: -5488786271536938495
+    second: "Design f\u0103r\u0103 titlu (1) (1)_4"
+  - first:
+      213: -1271548001522129270
+    second: "Design f\u0103r\u0103 titlu (1) (1)_5"
+  - first:
+      213: -5324634860572856992
+    second: "Design f\u0103r\u0103 titlu (1) (1)_6"
+  - first:
+      213: -6551533156273658991
+    second: "Design f\u0103r\u0103 titlu (1) (1)_7"
+  - first:
+      213: 4710622175174591838
+    second: "Design f\u0103r\u0103 titlu (1) (1)_8"
+  - first:
+      213: -3613729565416286762
+    second: "Design f\u0103r\u0103 titlu (1) (1)_9"
+  - first:
+      213: -1683305702611580500
+    second: "Design f\u0103r\u0103 titlu (1) (1)_10"
+  - first:
+      213: -3979936570543273291
+    second: "Design f\u0103r\u0103 titlu (1) (1)_11"
+  - first:
+      213: 7293642462326182861
+    second: "Design f\u0103r\u0103 titlu (1) (1)_12"
+  - first:
+      213: 6791596169219123734
+    second: "Design f\u0103r\u0103 titlu (1) (1)_13"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_0"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 362
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54756267b8b99fde0800000000000000
+      internalID: -1298835994234693819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_1"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 362
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270e2a01631918850800000000000000
+      internalID: 6377538208726704242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_2"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 362
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd315fc2f70041f20800000000000000
+      internalID: 3392336965531931615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_3"
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 362
+        width: 70
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17818845bf8b90a40800000000000000
+      internalID: 5334998623191570545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_4"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 196
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102000587f9e3d3b0800000000000000
+      internalID: -5488786271536938495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_5"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 196
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a866a6e54dd8a5ee0800000000000000
+      internalID: -1271548001522129270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_6"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 193
+        width: 73
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06da4e03ec81b16b0800000000000000
+      internalID: -5324634860572856992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_7"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 196
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1936d1e4e474415a0800000000000000
+      internalID: -6551533156273658991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_8"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 196
+        width: 72
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e550c5e09ed7f5140800000000000000
+      internalID: 4710622175174591838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_9"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 193
+        width: 72
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5190b4b1479ddc0800000000000000
+      internalID: -3613729565416286762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_10"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 9
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9827bc162b3a8e0800000000000000
+      internalID: -1683305702611580500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_11"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 34
+        width: 75
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba8e2496cc64c8c0800000000000000
+      internalID: -3979936570543273291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_12"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 29
+        width: 75
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc358a51d29383560800000000000000
+      internalID: 7293642462326182861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Design f\u0103r\u0103 titlu (1) (1)_13"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 9
+        width: 75
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aa5348bb8904e50800000000000000
+      internalID: 6791596169219123734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Design f\u0103r\u0103 titlu (1) (1)_0": -1298835994234693819
+      "Design f\u0103r\u0103 titlu (1) (1)_1": 6377538208726704242
+      "Design f\u0103r\u0103 titlu (1) (1)_10": -1683305702611580500
+      "Design f\u0103r\u0103 titlu (1) (1)_11": -3979936570543273291
+      "Design f\u0103r\u0103 titlu (1) (1)_12": 7293642462326182861
+      "Design f\u0103r\u0103 titlu (1) (1)_13": 6791596169219123734
+      "Design f\u0103r\u0103 titlu (1) (1)_2": 3392336965531931615
+      "Design f\u0103r\u0103 titlu (1) (1)_3": 5334998623191570545
+      "Design f\u0103r\u0103 titlu (1) (1)_4": -5488786271536938495
+      "Design f\u0103r\u0103 titlu (1) (1)_5": -1271548001522129270
+      "Design f\u0103r\u0103 titlu (1) (1)_6": -5324634860572856992
+      "Design f\u0103r\u0103 titlu (1) (1)_7": -6551533156273658991
+      "Design f\u0103r\u0103 titlu (1) (1)_8": 4710622175174591838
+      "Design f\u0103r\u0103 titlu (1) (1)_9": -3613729565416286762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
